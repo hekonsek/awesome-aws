@@ -2,4 +2,4 @@
 
 ## EC2
 
-- [Ansible role for provisioning Fedora EC2 instance](https://galaxy.ansible.com/hekonsek/fedora-ec2) 
+- [Ansible Fedora EC2 role](https://galaxy.ansible.com/hekonsek/fedora-ec2) - Ansible role for provisioning Fedora EC2 instance.
